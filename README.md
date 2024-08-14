@@ -1,3 +1,3 @@
 # Bancamia
 # Vista de Arquitectura: Diagrama de despliegue
-![cliente2 drawio](https://github.com/user-attachments/assets/f4b95803-e553-49cb-8fce-9861d2107daf)
+![cliente3 drawio](https://github.com/user-attachments/assets/4d450ec4-552a-4d32-a84d-c78f67aa71e2)
